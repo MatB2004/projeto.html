@@ -1,0 +1,80 @@
+.ferramentas{
+    background-color: aquamarine;
+border-radius: 20px;
+font-size: 20px;
+height: 100;
+width: 100;
+}
+.suporte{
+    background-color: aquamarine;
+    border-radius: 20px;
+    font-size: 20px;
+    height: 100;
+    width: 100;
+
+
+
+}
+.perfil{
+    background-color: aquamarine;
+border-radius: 20px;
+font-size: 20px;
+height: 100;
+width: 100;
+    
+
+
+
+}
+.notificacoes{
+    background-color: aquamarine;
+    border-radius: 20px;
+    font-size: 20px;
+    height: 100;
+    width: 100;
+}
+.mona{
+display: block;
+position: relative;
+top: 60px;
+right: 420px;
+left: 560px;
+width: 300px;
+height: 300px;
+}
+.ee{
+    position: relative;
+    left: 930px;
+    bottom: 150px;
+ right: 100px;
+}
+#nome{
+    color: white;
+}
+#senha{
+    color: white;
+}
+#texsenha{
+    position: relative;
+    left: 130px;
+}
+#entrar{
+    position: relative;
+    left: 300px;
+    border-radius: 20px;
+    background-color: aquamarine;
+}
+#linkreg{
+   color: grey;
+}
+.dancing{
+    position: relative;
+    bottom: 165px;
+  
+}
+#faixa{
+    background-color: aquamarine;
+    width: 1000px;
+    height: 400px;
+overflow-y: 0;
+}
